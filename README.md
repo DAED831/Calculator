@@ -5,5 +5,5 @@ Creada por:
 
 Daniel E. Ballén Baena
 
-[](Calculadora%201.png)
-[](Calculadora%202.png)
+[](Calculator/Calculadora%201.png)
+[](Calculator/Calculadora%202.png)
