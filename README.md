@@ -5,5 +5,7 @@ Creada por:
 
 Daniel E. Ballén Baena
 
-[alt text](https://github.com/DAED831/Calculator/blob/main/Calculadora%201.png)
-[alt text](https://github.com/DAED831/Calculator/blob/main/Calculadora%202.png)
+[Muestra 1]
+(https://github.com/DAED831/Calculator/blob/main/Calculadora%201.png)
+[Muestra 2]
+(https://github.com/DAED831/Calculator/blob/main/Calculadora%202.png)
