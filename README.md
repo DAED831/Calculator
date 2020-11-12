@@ -4,3 +4,6 @@ Este es un proyecto de creación libre acerca de una calculadora creada con Tkin
 Creada por:
 
 Daniel E. Ballén Baena
+
+[alt text](https://github.com/DAED831/Calculator/blob/main/Calculadora%201.png)
+[alt text](https://github.com/DAED831/Calculator/blob/main/Calculadora%202.png)
